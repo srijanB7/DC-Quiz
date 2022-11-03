@@ -24,6 +24,10 @@ let questions = [
         answer: "2"
     },
 
+    {
+        question: "Who is the most powerful villain in DC",
+        answer: "Darkseid"
+    },
 ]
 
 // function to check answers of questions
